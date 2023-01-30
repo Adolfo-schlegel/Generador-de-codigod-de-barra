@@ -1,0 +1,30 @@
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\BarcodeLib.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\FontAwesome.Sharp.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.frmMasivo.resources
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\NPOI.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\NPOI.OOXML.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\NPOI.OpenXml4Net.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\BouncyCastle.Crypto.xml
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\NPOI.xml
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\NPOI.OOXML.xml
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.frmInicio.resources
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\ProyectoBarras.mdAcercade.resources
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\CE Generador de Codigos.exe.config
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\CE Generador de Codigos.exe
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\bin\Debug\CE Generador de Codigos.pdb
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\CE Generador de Codigos.exe
+D:\WorkSpaceAD\YOUTUBE\038_FUNCIONALIDAD CODIGO BARRA\SolucionCodigoBarras\ProyectoBarras\obj\Debug\CE Generador de Codigos.pdb
